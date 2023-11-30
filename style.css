@@ -1,0 +1,138 @@
+body{
+    margin: 10px;
+    padding: 10px;
+    box-sizing: border-box;
+    background-color:black;
+    overflow-x: hidden;
+    background-image: url(images/coffee1.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 15%;
+
+}
+.container{
+    background-color: black;
+    color: white;
+    height: 40px;
+    width: 88%;
+    margin: 30px;
+    margin-left: 80px;
+    text-decoration: none;
+    margin-right: 0px;
+}
+.contains{
+    float: right;
+    text-decoration: none;
+}
+ul li{
+    display: flex;
+}
+ul{
+    margin-top: -30px;
+    display: flex;
+}
+li{
+    margin-right: 90px;
+    text-decoration: none;
+    color: white;
+    display: flex;
+}
+h1{
+    margin: 10px;
+}
+a:hover{
+    text-decoration: none;
+    color: blue;
+}
+ul li a{
+    text-decoration: none;
+    color:white;
+}
+h2{
+    margin-top: 80px;
+    margin-bottom: 50px;
+    text-align: center;
+    color: black;
+}
+p{
+    color:white;
+    text-align: center;
+}
+h3{
+    color:white;
+    text-align: center;
+    font-size: 30px;
+}
+h6{
+    color:palevioletred;
+    text-align: center;
+    margin-top: 250px;
+}
+input{
+    width: 40%;
+    height: 24px;
+    margin: 10px;
+    margin-left: 75px;
+}
+textarea{
+    margin: 10px;
+    margin-left: 75px;
+    height: 48px;
+    width: 88%;
+}
+button{
+    width: 88%;
+    height: 25px;
+    margin-left: 80px;
+    background-color: yellow;
+}
+h4{
+    color: white;
+}
+section{
+    display: flex;
+    margin: 15px;
+    width: 90%;
+    margin-left: 70px;
+    margin-top: 100px;
+    background-color: gray;
+}
+.data{
+    margin: 30px;
+}
+img{
+    height: 20vh;
+    height: 30vh;
+    color: white;
+}
+h1{
+    color: white;
+    font-size: 26px;
+}
+.work{
+    display: flex;
+    margin: 50px;
+    margin-top: 50px;
+    margin-left: 100px;
+    gap: 250px;
+}
+hr{
+    width: 90%;
+    margin-left: 69px;
+}
+.second{
+    display: flex;
+    margin-top: 20px;
+    margin: 20px;
+    margin-left: 60px;
+    margin-right: 60px;
+    gap: 150px;
+}
+footer{
+    float: right;
+}
+#foot{
+    height: 20px;
+    float: right;
+    margin: 6px;
+    margin-right: 50px;
+}
